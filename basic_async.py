@@ -69,6 +69,7 @@ class FutureAnswer:
         """
         return self.__next__()
 
+
 class SimpleLoop:
     """
         Описание простого event-loop 
